@@ -1,0 +1,5 @@
+{
+  "name": "Retro Scientific Calculator",
+  "description": "A fully functional, visually authentic replica of a classic scientific calculator with dual-line LCD display, supporting trigonometric functions, powers, and memory operations.",
+  "requestFramePermissions": []
+}
